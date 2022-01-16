@@ -18,7 +18,7 @@ app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 
 //Creating a new mongodb database
-mongoose.connect("mongodb+srv://admin-gourav:admin-gourav@cluster0.bkutx.mongodb.net/todolistDB");
+mongoose.connect("mongodb+srv://your_username-username:your_password@cluster0.bkutx.mongodb.net/todolistDB");
 
 //Creating a schema for db
 const itemsSchema = {
