@@ -3,4 +3,5 @@ A todoList application created using HTML, CSS, NodeJs, EJS, express and mongoDB
 
 https://fathomless-dusk-14883.herokuapp.com/
 
-![image](https://user-images.githubusercontent.com/91913331/181905517-aada25e8-65f5-4b72-ba9d-040015f4a662.png)
+![image](https://user-images.githubusercontent.com/91913331/181906527-6d3cf479-f11f-4342-9ddb-1e59d08b1cce.png)
+
